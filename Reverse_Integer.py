@@ -18,8 +18,8 @@ class Solution:
                 return(reversed)
             else:
                 return(-1*reversed)
-        else:
-            return(0)
+        # else:
+            # return(0)
 
 
 def main():
